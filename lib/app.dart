@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:kroma/BLoC/colorGenerator/color_bloc.dart';
+import 'package:kroma/BLoC/color_bloc.dart';
 import 'package:kroma/BLoC/counter_bloc.dart';
 
 class KromaHome extends StatelessWidget {
